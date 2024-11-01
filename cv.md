@@ -9,7 +9,7 @@
  - LinkedIn: soon
  - GitHub: [@GitHub](https://github.com/alexnorwjap)
 
- ## About
+## About
 
 >**Don’t be just a programmer, be a problem solver.**
 
