@@ -12,13 +12,13 @@
  - GitHub: [@GitHub](https://github.com/alexnorwjap)
 
 ## Skills
-- HTML
-- CSS (SASS).
-- JavaScript (base level)
-- Vue (base level)
-- Git (base level)
-- Bundler: Vite(base level).
-- Figma(for web development)
+- HTML(Intermediate)
+- CSS/SASS (Intermediate)
+- JavaScript (Basic-Intermediate)
+- Vue (Basic)
+- Git (Basic)
+- Bundler: Vite(Basic)
+- Figma(Basic)
 
 
 ## Code examples:
