@@ -1,11 +1,69 @@
-##	[rsschool-cv](https://alexnorwjap.github.io/rsschool-cv/)
+##	[![RSS](ссылка_на_картинку)](https://alexnorwjap.github.io/rsschool-cv/)
 
 # Aleksandr Denisov 
 
+
 ## Contact Info
 
- - Address: Saint Petersburg
- - Telegram: [@telegram](https://t.me/Norw_Jap_Can)
+ - Address: Saint Petersburg, Russia
+ - Telegram: [@telegram](https://t.me/)
  - E-mail: alex.norw.jap@gmail.com
  - LinkedIn: soon
  - GitHub: [@GitHub](https://github.com/alexnorwjap)
+
+## Skills
+- HTML
+- CSS (SASS).
+- JavaScript (base level)
+- Vue (base level)
+- Git (base level)
+- Bundler: Vite(base level).
+- Figma(for web development)
+
+
+## Code examples:
+>The base for the modal window, basic settings and closing conditions that will follow all child classes for individual buttons.
+
+<details>
+<summary>Open code</summary>
+```
+class BaseModal {
+  constructor() {
+    this.modal = document.querySelector('#modal');
+    this.modalWindow = document.querySelector('#modal-window');
+    this.btnClose = document.querySelector('#btn-close');
+    this.titleModal = document.querySelector('#modal-title');
+    this.textModal = document.querySelector('#modal-text');
+    this.imageModal = document.querySelector('#image-modal');
+  }
+  
+  initEvents() {
+    this.modal.addEventListener('click', this);
+    this.btnClose.addEventListener('click', this);
+  }
+
+  handleEvent(event) {
+    if (this.isCLoseAction(event)) {
+      return this.closeModalWindow();
+    }
+  }
+
+  isCLoseAction(event) {
+    return event.target === this.btnClose || event.target === this.modal;
+  }
+
+  openModalWindow() {
+    this.modal.classList.add('active');
+    this.modal.querySelector('.modal__window').classList.add('active');
+    document.querySelector('body').classList.add('lock');
+  }
+
+  closeModalWindow() {
+    this.modal.classList.remove('active');
+    this.modal.querySelector('.modal__window').classList.remove('active');
+    document.querySelector('body').classList.remove('lock');
+  }
+}
+```
+</details>
+
