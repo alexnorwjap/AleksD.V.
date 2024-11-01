@@ -24,8 +24,6 @@
 ## Code examples:
 >The base for the modal window, basic settings and closing conditions that will follow all child classes for individual buttons.
 
-<details>
-<summary>Open code</summary>
 ```javascript
 class BaseModal {
   constructor() {
@@ -65,7 +63,6 @@ class BaseModal {
   }
 }
 ```
-</details>
 
 
 ## Education(Self Education):
