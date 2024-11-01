@@ -1,4 +1,4 @@
-##	[![RSS](ссылка_на_картинку)](https://alexnorwjap.github.io/rsschool-cv/)
+##	[![RSS](img/logo.png)](https://alexnorwjap.github.io/rsschool-cv/)
 
 # Aleksandr Denisov 
 
