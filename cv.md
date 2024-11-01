@@ -1,5 +1,3 @@
-##	[![RSS](img/logo.png)](https://alexnorwjap.github.io/rsschool-cv/)
-
 # Aleksandr Denisov 
 
 
@@ -93,3 +91,5 @@ class BaseModal {
 ###	Languages
 
 -	Engllish A2
+
+##	[![RSS](img/logo.png)](https://alexnorwjap.github.io/rsschool-cv/cv)
