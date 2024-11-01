@@ -26,7 +26,7 @@
 
 <details>
 <summary>Open code</summary>
-```
+```javascript
 class BaseModal {
   constructor() {
     this.modal = document.querySelector('#modal');
@@ -67,3 +67,32 @@ class BaseModal {
 ```
 </details>
 
+
+## Education(Self Education):
+
+##### HTML/CSS(SASS)/JS(base)
+- youtube lessons
+- https://www.cssportal.com/
+- https://www.w3schools.com/
+
+#### Git/Figma/ Vite
+- documentation
+- youtube lessons
+
+#### JavaScript
+- youtube lessons
+- https://developer.mozilla.org/ru/
+- https://learn.javascript.ru/
+
+#### Vue
+- https://vuejs.org/
+
+
+## Experience
+
+- soon
+- [this](https://alexnorwjap.github.io/rsschool-cv/)
+
+###	Languages
+
+-	Engllish A2
