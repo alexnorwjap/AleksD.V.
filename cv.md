@@ -9,6 +9,16 @@
  - LinkedIn: soon
  - GitHub: [@GitHub](https://github.com/alexnorwjap)
 
+ ## About
+
+>**Don’t be just a programmer, be a problem solver.**
+
+- I am interested in programming, because I saw so many amazing things that can be built with it.
+That's why I think that it's not enough to just programm, the main puprose should be to build something that matters, something that solves problems.
+- I want to become a problem-solver, creator, innovator — not just a programmer. Programming is simply a tool to build amazing things.
+- I want to help to create something meaningful, to help real people with the real problems.
+
+
 ## Skills
 - HTML(Intermediate)
 - CSS/SASS (Intermediate)
