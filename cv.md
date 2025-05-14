@@ -96,10 +96,8 @@ class BaseModal {
 ## Experience
 
 - soon
-- [this](https://alexnorwjap.github.io/rsschool-cv/)
+- [this](https://alexnorwjap.github.io/rsschool-cv/cv)
 
 ###	Languages
 
 -	Engllish A2
-
-##	[![RSS](img/logo.png)](https://alexnorwjap.github.io/rsschool-cv/cv)
