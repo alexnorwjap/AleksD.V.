@@ -75,7 +75,7 @@ To me, it’s not just about writing code — it’s about creating something me
 
 ## Experience
 
-- [Nifter(JS)]([https://alexnorwjap.github.io/rsschool-cv/cv](https://alexnorwjap.github.io/Nifter/))
+- [Nifter(JS)](https://alexnorwjap.github.io/Nifter)
 
 ###	Languages
 
