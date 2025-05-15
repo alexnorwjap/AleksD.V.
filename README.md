@@ -1,1 +1,1 @@
-# [rsschool-cv](https://alexnorwjap.github.io/rsschool-cv/)
+# [Aleks D.](https://github.com/alexnorwjap)
